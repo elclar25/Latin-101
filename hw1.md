@@ -1,3 +1,5 @@
+**+2 Very nice!**
+
 1. A regular Latin verb has four principal parts.
 2. The first and third principal parts are finite verb forms. They are in the first person, singular form.
 3. faciō, facere, fēcī, factus; interficio, interficere, interfēcī, interfectum -- The third part is identical to prefixing -inter to a form a facio. The first part changes the a to an i in facio, the second part changes the a to an i in facere, and the fourth part changes the ending from -us to -um.
