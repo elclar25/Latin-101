@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
 
 1. perfect active singular: amauit
 2. perfect passive singular: amatus est
@@ -10,8 +10,8 @@
 8. imperfect passive plural: amābantur
 9. perfect active singular: cepit
 10. perfect passive singular: captus est
-11. imperfect active singular: capiebat ❌
-12. imperfect passive singular: capiebatur ❌
+11. imperfect active singular: capiebat ❌ ✅
+12. imperfect passive singular: capiebatur ❌ ✅
 13. uenērunt: third-person plural perfect indicative active; uenio
 14. interfectus est: third-person singular perfect indicative passive; interficio
 15. faciebat: third-person singular imperfect indicative active; facio
