@@ -18,6 +18,6 @@ Fully identify the form of apposita est. Third person, singular, perfect, passiv
 
 What is the antecedent of eam? Hesione ❌
 
-Hercules killed Antaeus, son of the earth in Libya. Here Antaeus killed his guests; Hercules killed Antaeus❌ by wrestling. Hercules slayed Cygnus, son of Mars, by arms. Mars came and by arms contended with Hercules for❓ his son, but Jupiter sent a thunderbolt ❓*inter eos*❓. Hesione was put❓ to a whale in Troy. Hercules slayed the whale; Hercules killed Laomedon, the father of Hesione, because he did not return to her.
+Hercules killed Antaeus, son of the earth in Libya. Here Antaeus killed his guests; Hercules killed Antaeus❌ by wrestling. Hercules slayed Cygnus, son of Mars, by arms. Mars came and by arms contended with Hercules for❓ his son, but Jupiter sent a thunderbolt between them. Hesione was put next❓to a whale in Troy. Hercules slayed the whale; Hercules killed Laomedon, the father of Hesione, because he did not return to her.
 
 **I can't always tell who is who in your translation: can you clarify?**
