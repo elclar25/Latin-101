@@ -14,11 +14,11 @@ Noun-adjective Agreement: singular
 2. genitive - prioris dei
 3. dative - priori deo
 4. accusative - priorem deum
-5. ablative - priore deo⚠️
+5. ablative - priori deo⚠️
 
 Noun-adjective Agreement: plural
 1. nominative - priores dei
-2. genitive - priorum deorum❌
+2. genitive - priorium deorum❌
 3. dative - prioribus deis
 4. accusative - priores deos
 5. ablative - prioribus deis
