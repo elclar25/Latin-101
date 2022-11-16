@@ -1,4 +1,6 @@
-Noun Adjective Agreement: Singular
+**+1 Excellent!  One tiny correction**
+
+Noun Adjective Agreement: Singular ✅
 1. nominative - hic imprudens filius
 2. genitive - huius imprudentis filii
 3. dative - huic imprudenti filio
@@ -22,4 +24,4 @@ Case Usage:
 7. for many hours - multas horas
 8. by her sons - ab filiis euis
 9. to her and to her sons - sibi et filiis suis
-10. that night - illius nox
+10. that night - illius nox ❌
