@@ -1,7 +1,7 @@
-1. had been - habuerint fuerint
-2. captured - cepisset
-3. captured - caperet
-4. had been captured - ? 
-5. were sacking - ?
-6. said - dixisset
-7. saw - uideret
+1. had been - fuissent
+2. captured - cepissent
+3. captured - ceperunt
+4. had been captured - capta esset 
+5. were sacking - capiebant
+6. said - diceret
+7. saw - uiderunt
