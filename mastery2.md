@@ -24,4 +24,4 @@ Case Usage:
 7. for many hours - multas horas
 8. by her sons - ab filiis euis
 9. to her and to her sons - sibi et filiis suis
-10. that night - illius nox ❌
+10. that night - illa nocte ❌
